@@ -29,10 +29,10 @@
 |---|---|---|
 | [Credentia](https://github.com/jenish1345/Credentia) | Solidity · TypeScript | Verifiable credentials: issue, share, verify. |
 | [Credentia-Local](https://github.com/jenish1345/Credentia-Local) | Next.js · Prisma | Privacy-first eligibility proofs for local opportunities. |
-| [AegisNet](https://github.com/jenish1345/AegisNet) | Python | A security-focused platform that helps detect and respond to digital threats before they escalate. |
-| [blast_radius](https://github.com/jenish1345/blast_radius) | Python | Understand and limit the impact of failures, incidents, or risky changes across a system. |
-| [Claimguard](https://github.com/jenish1345/Claimguard) | TypeScript | An AI-powered assistant that helps users review, validate, and challenge insurance or warranty claims. |
-| [Swiftypay](https://github.com/jenish1345/Swiftypay) | TypeScript | A fast, modern payments experience that makes sending and receiving money simpler and more transparent. |
+| [AegisNet](https://github.com/jenish1345/AegisNet) | Python | Evidence-grounded AI for scam network intelligence: connect the signals, verify the story, protect the next victim. |
+| [blast_radius](https://github.com/jenish1345/blast_radius) | Python | Preflight gate for autonomous agents: runs each action in a forked sandbox and checks the result against what the agent said it would do. |
+| [Claimguard](https://github.com/jenish1345/Claimguard) | TypeScript | AI defense against health insurance claim denials: OCR grounding, contract analysis and a legal plan-type gate. |
+| [Swiftypay](https://github.com/jenish1345/Swiftypay) | TypeScript · Monad | Pay anyone with a link: request an exact amount, share a link or QR, get a receipt. Testnet hackathon demo. |
 
 ## Numbers, not adjectives
 
